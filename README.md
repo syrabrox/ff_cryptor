@@ -12,7 +12,7 @@ FF-Cryptor is a Python-based file and folder encryption/decryption tool that off
 ### Setup
 
 1. Run the program:
-    - python FF-Cryptor_(CLI/UI).exe
+    - FF-Cryptor_(CLI/UI).exe
 
 2. **Initial Setup**: 
     - Create a master password to generate an encryption key (stored in `key.key`).
