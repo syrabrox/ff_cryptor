@@ -22,4 +22,4 @@
 This project is licensed under the MIT License.
 
 ## Author
-Created by www.cr4dck.de team.
+Created by www.cr4ck.de team.
