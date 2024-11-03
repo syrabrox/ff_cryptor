@@ -5,10 +5,11 @@
    - The program prompts the user for a master password while masking the input with asterisks for privacy.
    - Utilizes SHA-256 hashing to generate a secure key from the user-provided password.
 
-- **Multiple Encryption Algorithms**: Selects from various encryption algorithms based on the length of the password, adapting to different security needs:
-  - ChaCha20 for short passwords.
-  - AES-256 in ECB mode for medium passwords.
-  - Triple DES (3DES) in CBC mode for longer passwords.
+- **Multiple Encryption Algorithms**:
+  - Selects from various encryption algorithms based on the length of the password, adapting to different security needs:
+    - ChaCha20 for short passwords.
+    - AES-256 in ECB mode for medium passwords.
+    - Triple DES (3DES) in CBC mode for longer passwords.
 
 - **File and Folder Support**: 
   - Encrypts and decrypts individual files.
